@@ -1,0 +1,10 @@
+Fixation 1 Successful = 0.1
+Search Successful = 0.2
+Single Fractal Successful = 0.3
+
+Fixation 1 Timeout = 1.0
+Fixation 1 Break = 1.1
+Fixation 2 Timeout = 2.0
+Fixation 2 Break = 2.1
+Fixation 2 Other = 2.2
+Search Timeout = 3.0
